@@ -1,6 +1,6 @@
 {
-  "short_name": "X's Fake Blog",
-  "name": "X's Fake Blog of Fake Stuff",
+  "short_name": "Example Blog",
+  "name": "Example Blog",
   "icons": [
     {
       "src": "favicon.ico",
