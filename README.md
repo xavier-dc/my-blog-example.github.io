@@ -2,12 +2,12 @@
 
 A simple website with multiple pages, allows users to create and navigate through articles. Utilizes MongoDB, React, Javascript, and Node.js.
 
-run
+install dependencies
 ```
 npm install
 ```
 
-then
+then run the application
 ```
 npm start
 ```
